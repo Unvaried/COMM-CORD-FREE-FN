@@ -1,3 +1,6 @@
+// thanks for checking this out! MAKE SURE YOU JOIN THE SERVER
+
+// https://discord.gg/mbv8dTSr
 ﻿#include "COMMS.h"
 #include "rat.h"
 #include "Print.hpp"
